@@ -1,0 +1,105 @@
+ #banner-image
+ {
+   padding-top: 75px;
+ padding-bottom: 50px;
+ text-align: center;
+ height: 670px;
+ color: #f8f8f8;
+ background: url(intro-bg_1.jpg) no-repeat center center;
+ background-size: cover;
+ }
+
+ #banner-content{
+ 	position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+   background-color: rgba(0, 0, 0, 0.7);
+   max-width: 660px;
+ }
+
+ footer{
+
+   padding: 10px 0;
+   background-color: #101010;
+   color:#9d9d9d;
+   bottom: 0;
+   width: 100%;
+ }
+
+ .row-style{
+ 	text-align: left;
+ 	width: 500px;
+ 	margin-bottom: 177.5px;
+ 	margin-top: 177.5px;
+ }
+
+ .signup-style{
+ 	text-align: left;
+ 	width: 500px;
+ 	margin: 134.7px;
+ }
+
+/*header-icons*/
+ .glyphicon{
+ 	padding-left: 2px;
+ 	padding-right: 2px;
+ }
+
+ /*products*/
+
+ .jumbotron{
+ 	margin-top: 100px;
+ }
+
+
+
+.table{
+	margin-top: 150px;
+	width: 600px;
+	
+	
+}
+
+th  {
+	text-align: left;
+	
+	
+}
+
+td{
+	
+}
+
+.cart-style{
+	
+	margin-bottom: 413px;
+}
+
+.confirmed{
+	margin-top: 150px;
+	margin-bottom: 282px;
+}
+
+
+.images{
+  padding-top: 50px;
+  margin-bottom: 50px;
+}
+
+
+
+.btn{
+  text-decoration-line: none;
+
+}
+
+.col-md-3{
+  margin-bottom: 30px;
+}
+
+.text-center{
+  margin-bottom: 50px;
+}
+
